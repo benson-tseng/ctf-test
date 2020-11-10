@@ -1,0 +1,7 @@
+In this level u need to get the text from file01 & file02 first.
+Combine two text together and use base64 decode it,
+Run shell script and insert the value u just got from base64.
+
+the command u may need in this level: cat cd ls grep base64
+
+NOTE: u can easily type in ./shell.sh to run the shell script.

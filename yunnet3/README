@@ -1,0 +1,6 @@
+In this level u have to search the flag in data.txt
+
+the command u may need in this level: cat cd grep du ls 
+
+NOTE: the flag is stored next to the word 'YUNNET'
+NOTE2: U may also need to use pipe in this level ...

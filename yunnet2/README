@@ -1,0 +1,6 @@
+In this level u will need to find the flag which is stored in somewhere of those massive directory & file
+
+the command u may need in this level: cd cat du grep sort ls
+
+NOTE: the flag is stored at one of the files 312 bytes in size ..
+NOTE2: google "the usage of pipe in Linux"
